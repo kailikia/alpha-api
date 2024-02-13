@@ -47,6 +47,7 @@ def prods():
 #Get a single product in the route
 #Create a new project call it alpha-app,make it boostrapand datatables enabled with dummy data(products) in a table
 #Have a form in a bootstrap modal with products input
+#Push your latest code. Create a new repo on github for alpha-app
         
 
 if __name__ == "__main__":
